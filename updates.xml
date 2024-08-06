@@ -4,7 +4,7 @@
  <app appid='khbhjpcllgnkeliogmlbkpmoihohcfkp'>
   <updatecheck
     codebase='https://santiagonoguez.github.io/extension.crx'
-    version='1.12'
+    version='1.13'
   />
  </app>
 </gupdate>
